@@ -1,2 +1,0 @@
-hoy estamos haciendo un taller de git
-que es un sistema de control de versiones
