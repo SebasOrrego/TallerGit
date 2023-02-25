@@ -1,0 +1,1 @@
+en la clase anterior vimos el uso de git como crear usuario y crear una carpeta desde git
